@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\bin\Debug\net7.0\C# Projeleri 9 Karakter Değiştirme.exe
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\bin\Debug\net7.0\C# Projeleri 9 Karakter Değiştirme.deps.json
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\bin\Debug\net7.0\C# Projeleri 9 Karakter Değiştirme.runtimeconfig.json
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\bin\Debug\net7.0\C# Projeleri 9 Karakter Değiştirme.dll
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\bin\Debug\net7.0\C# Projeleri 9 Karakter Değiştirme.pdb
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\obj\Debug\net7.0\C# Projeleri 9 Karakter Değiştirme.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\obj\Debug\net7.0\C# Projeleri 9 Karakter Değiştirme.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\obj\Debug\net7.0\C# Projeleri 9 Karakter Değiştirme.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\obj\Debug\net7.0\C# Projeleri 9 Karakter Değiştirme.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\obj\Debug\net7.0\C# Projeleri 9 Karakter Değiştirme.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\obj\Debug\net7.0\C# Projeleri 9 Karakter Değiştirme.dll
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\obj\Debug\net7.0\refint\C# Projeleri 9 Karakter Değiştirme.dll
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\obj\Debug\net7.0\C# Projeleri 9 Karakter Değiştirme.pdb
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\obj\Debug\net7.0\C# Projeleri 9 Karakter Değiştirme.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C# Projeleri 9 Karakter Değiştirme\obj\Debug\net7.0\ref\C# Projeleri 9 Karakter Değiştirme.dll
